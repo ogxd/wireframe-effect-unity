@@ -9,7 +9,7 @@ Can be used as a classic shader but also as a post processing effect, to keep th
 ![Screenshot](https://raw.githubusercontent.com/ogxd/wireframe-effect-unity/master/Demo/effect.png)    
 
 ### As a material (assign it as a second material to create an overlay effect)
-![Screenshot](https://raw.githubusercontent.com/ogxd/wireframe-effect-unity/master/Demo/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/ogxd/wireframe-effect-unity/master/Demo/overlay.png)
 
 ## How to use ?
 Download the .unitypackage in the Release tab (or checkout and copy the Assets/Plugins/WireframeEffect folder to your Assets folder)
