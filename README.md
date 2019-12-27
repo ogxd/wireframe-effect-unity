@@ -5,7 +5,7 @@ Can be used as a classic shader but also as a post processing effect, to keep th
 
 ![Screenshot](https://raw.githubusercontent.com/ogxd/wireframe-effect-unity/master/Demo/screenshot.png)
 
-### As a image effect (on camera)
+### As an image effect (on camera)
 ![Screenshot](https://raw.githubusercontent.com/ogxd/wireframe-effect-unity/master/Demo/effect.png)    
 
 ### As a material (assign it as a second material to create an overlay effect)
